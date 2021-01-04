@@ -20,7 +20,9 @@ for i in range(len(numbers) - lengthOfPreamble):
 	if not total_valid:
 		invalid_total = total
 
-# Part 1
+
+
+
 print("Part 1")
 print(invalid_total)
 
